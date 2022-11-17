@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour
     private float timeTaken;
 
     private int collectabledPicked;
-    public int maxCollectables = 10;
+    public int maxCollectables = 1;
 
     public GameObject playButton;
     public TextMeshProUGUI curTimeText;
